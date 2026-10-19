@@ -9,6 +9,15 @@ My homework and lab solutions for CS 301 (Fall 2026, Prof. Nguyen).
 | `hw3/` | Binary search trees |
 | `lab4/` | Hash maps |
 
-All solutions are Java 21. Run tests with `./gradlew test`.
+## Running it
+All solutions are Java 21.
+```bash
+./gradlew test
+```
+
+## To-do
+- [ ] hw4: heaps and priority queues (due Oct 30)
+- [ ] Fix the BST delete edge case from hw3 feedback
+- [ ] Study guide for the midterm
 
 > Academic integrity: please don't copy this for your own submission.
